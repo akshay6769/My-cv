@@ -1,0 +1,9 @@
+div{
+    background-color: yellow;
+}
+button{
+    background-color: inherit;
+}
+input{
+    background-color: inherit; /**there are do not access directly inherit grand properties there neet to inherit*/
+}
